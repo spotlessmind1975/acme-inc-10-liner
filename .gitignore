@@ -1,5 +1,11 @@
+atari/
 c128/
 coco/
-atari/
 pc128op/
-
+zx/
+*.old
+*.bak
+*.xex
+*.bin
+*.dsk
+*.k7
