@@ -22,7 +22,7 @@ This game joined the ["BASIC10Liner" competition 2024](https://gkanold.wixsite.c
 ![extreme256 for TRS-80 COLOR COMPUTER 1 AND 2](pictures/source-coco-extreme256-proof.png)
 
 **OLIVETTI PRODEST PC128**
-![extreme256 for OLIVETTI PRODEST PC128](pictures/source-pc128OP-extreme256-proof.png)
+![extreme256 for OLIVETTI PRODEST PC128](pictures/source-pc128op-extreme256-proof.png)
 
 Since it joined this competition, the game itself is modest in size, the given source code respects strong constraints on the length of each line (category: **EXTREME-256**) and it does not rely on third party libraries. Moreover, since it uses specific features of each home computer, there is a specific ugBASIC source for each one. The check on constraints has been done using [UGBASIC-IDE](https://spotlessmind1975.itch.io/ugbasic-ide).
 
